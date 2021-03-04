@@ -1,0 +1,10 @@
+#include<stdio.h>
+void main()
+{
+    int a = 18;
+    char b = 'm';
+    float c = 72.5;
+    printf("Age of Ayan is %d",a);
+    printf("\nGender of Ayan is %c",b);
+    printf("\nWeight of Ayan is %f",c);
+}
