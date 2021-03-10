@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <string.h>
+void main()
+{
+    char s1[6]= "AYAN";
+    char p2[5]="AVLL";
+    strcmp (s1,p2);
+    printf("%d",strcmp(s1,p2));
+}
